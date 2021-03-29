@@ -2,6 +2,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xMontesito&count_private=true&show_icons=true&theme=omni)
 
+- 🌱 I’m currently learning HTML and CSS
+- ⚡ Fun fact: I am from Colombia
 
 <!--
 **xMontesito/xMontesito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
