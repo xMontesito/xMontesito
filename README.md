@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xMontesito&count_private=true&show_icons=true&theme=rainbow)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xMontesito&count_private=true&show_icons=true&theme=omni)
 
 
 <!--
